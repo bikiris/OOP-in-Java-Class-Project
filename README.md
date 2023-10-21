@@ -1,2 +1,1 @@
-# OOP-in-Java-Class-Project
-Final class project
+# Final Project for OOP in Java in Fall 2022
